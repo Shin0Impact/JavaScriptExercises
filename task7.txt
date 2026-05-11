@@ -1,0 +1,9 @@
+"hello": TRUE
+"": FALSE
+0: FALSE
+1: TRUE
+null: FALSE
+undefined: FALSE
+false: FALSE
+[]: TRUE
+NaN: FALSE

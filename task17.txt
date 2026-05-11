@@ -1,0 +1,17 @@
+// 1
+let msg;
+if (10 > 5) { msg = "yes"; } else { msg = "no"; }
+// 2
+let fee;
+if (isMember) { fee = 5; } else { fee = 20; }
+// 3
+let label;
+if (score >= 50) { label = "pass"; } else { label = "fail"; }
+
+
+// 1
+let msg = (10 > 5) ? "yes" : "no";
+// 2
+let fee = isMember ? 5 : 20;
+// 3
+let label = (score >= 50) ? "pass" : "fail";

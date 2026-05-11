@@ -1,0 +1,5 @@
+const x = 5;
+console.log(x > 3 && x < 10 ? "in range" : "out");//in range
+console.log(!!(0));//false
+console.log(!!("hello"));//true
+console.log(x === 5 || x === 10 ? "match" : "no");//match
